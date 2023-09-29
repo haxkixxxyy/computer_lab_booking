@@ -1,0 +1,50 @@
+[
+{
+  "directory": "D:/vscodeCode/computer_lab_booking/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\main.dir\\main.cpp.obj -c D:\\vscodeCode\\computer_lab_booking\\main.cpp",
+  "file": "D:/vscodeCode/computer_lab_booking/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/vscodeCode/computer_lab_booking/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\main.dir\\sys_manage.cpp.obj -c D:\\vscodeCode\\computer_lab_booking\\sys_manage.cpp",
+  "file": "D:/vscodeCode/computer_lab_booking/sys_manage.cpp",
+  "output": "CMakeFiles/main.dir/sys_manage.cpp.obj"
+},
+{
+  "directory": "D:/vscodeCode/computer_lab_booking/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\main.dir\\manager.cpp.obj -c D:\\vscodeCode\\computer_lab_booking\\manager.cpp",
+  "file": "D:/vscodeCode/computer_lab_booking/manager.cpp",
+  "output": "CMakeFiles/main.dir/manager.cpp.obj"
+},
+{
+  "directory": "D:/vscodeCode/computer_lab_booking/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\main.dir\\identity.cpp.obj -c D:\\vscodeCode\\computer_lab_booking\\identity.cpp",
+  "file": "D:/vscodeCode/computer_lab_booking/identity.cpp",
+  "output": "CMakeFiles/main.dir/identity.cpp.obj"
+},
+{
+  "directory": "D:/vscodeCode/computer_lab_booking/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\main.dir\\student.cpp.obj -c D:\\vscodeCode\\computer_lab_booking\\student.cpp",
+  "file": "D:/vscodeCode/computer_lab_booking/student.cpp",
+  "output": "CMakeFiles/main.dir/student.cpp.obj"
+},
+{
+  "directory": "D:/vscodeCode/computer_lab_booking/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\main.dir\\teacher.cpp.obj -c D:\\vscodeCode\\computer_lab_booking\\teacher.cpp",
+  "file": "D:/vscodeCode/computer_lab_booking/teacher.cpp",
+  "output": "CMakeFiles/main.dir/teacher.cpp.obj"
+},
+{
+  "directory": "D:/vscodeCode/computer_lab_booking/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\main.dir\\computer_room.cpp.obj -c D:\\vscodeCode\\computer_lab_booking\\computer_room.cpp",
+  "file": "D:/vscodeCode/computer_lab_booking/computer_room.cpp",
+  "output": "CMakeFiles/main.dir/computer_room.cpp.obj"
+},
+{
+  "directory": "D:/vscodeCode/computer_lab_booking/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\main.dir\\order_file.cpp.obj -c D:\\vscodeCode\\computer_lab_booking\\order_file.cpp",
+  "file": "D:/vscodeCode/computer_lab_booking/order_file.cpp",
+  "output": "CMakeFiles/main.dir/order_file.cpp.obj"
+}
+]

@@ -1,0 +1,3 @@
+D:/vscodeCode/computer_lab_booking/build/CMakeFiles/main.dir
+D:/vscodeCode/computer_lab_booking/build/CMakeFiles/edit_cache.dir
+D:/vscodeCode/computer_lab_booking/build/CMakeFiles/rebuild_cache.dir
